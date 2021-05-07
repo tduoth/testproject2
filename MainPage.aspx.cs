@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace Togola_HW7_Part2
+namespace TestResearch
 {
     public partial class Login1 : System.Web.UI.Page
     {

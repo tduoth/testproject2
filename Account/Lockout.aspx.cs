@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace Togola_HW7_Part2.Account
+namespace TestResearch.Account
 {
     public partial class Lockout : System.Web.UI.Page
     {

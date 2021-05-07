@@ -4,7 +4,7 @@
 
 <html lang="en">
 <head runat="server">
-    <title><%: Page.Title %> - URP Research Sysmposium Registration</title>
+    <title><%: Page.Title %> - Testing for Registration</title>
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
 

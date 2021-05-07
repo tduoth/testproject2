@@ -4,9 +4,9 @@ using System.Web.UI;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Owin;
-using Togola_HW7_Part2.Models;
+using TestResearch.Models;
 
-namespace Togola_HW7_Part2.Account
+namespace TestResearch.Account
 {
     public partial class Login : Page
     {

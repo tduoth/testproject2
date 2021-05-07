@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-     <title>TEMPLE UNIVERSITY URP SYSTEM</title>
+     <title>BELLEVUE COLLEGE</title>
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
 
@@ -112,7 +112,7 @@
                     <div class="col-md-12 col-lg-12">
                         <div class="wow shake" data-wow-delay="0.4s">
                         <p style="height: 95px; z-index: 1; left: -156px; top: 747px; position: absolute; width: 738px; background-color: #FF6666; margin-left: 160px;">
-                            <b>©TEMPLE UNIVERSITY URP SYMPOSIUM RESEARCH</b></p>
+                            <b>©BELLEVUE COLLEGE</b></p>
         </div>
          </div>
                     </div>

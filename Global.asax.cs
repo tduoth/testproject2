@@ -7,7 +7,7 @@ using System.Web.Routing;
 using System.Web.Security;
 using System.Web.SessionState;
 
-namespace Togola_HW7_Part2
+namespace TestResearch
 {
     public class Global : HttpApplication
     {

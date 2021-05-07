@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Togola_HW7_Part2 {
+namespace TestResearch {
     
     
     public partial class Register {

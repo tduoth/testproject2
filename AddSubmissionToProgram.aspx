@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
- <title>TEMPLE UNIVERSITY URP SYSTEM</title>
+ <title>UnderGraduate Research</title>
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
 
@@ -52,17 +52,17 @@
        <br />
           <div>
             <label for="ID">TUID*:</label>
-            <input type="text" name="ID" value="911-345-7777" /> 
+            <input type="text" name="ID" value="206-669-7777" /> 
           </div>
        <br />
           <div>
             <label for="Email">Email*:</label>
-            <input type="text" name="Email" value="alex@temple.edu" />
+            <input type="text" name="Email" value="thanh.duong@bellevuecollege.edu" />
           </div>
        <br />
            <div>
             <label for="CellPhone">Cell Phone*:</label>
-            <input type="text" name="CellPhone" value="267-333-4567" />
+            <input type="text" name="CellPhone" value="206-669-4452" />
           </div>
        <br />
        <div>
@@ -83,18 +83,18 @@
        <br />
          <div>
             <label for="SponsorName">Faculty Sponsor Name*:</label>
-            <input type="text" name="SponsorName" value="Dina Anabelle" /> 
+            <input type="text" name="SponsorName" value="None" /> 
           </div>
        <br />
           <div>
             <label for="SponsorEmail">Faculty Sponsor Email*:</label>
-            <input type="text" name="SponsorEmail" value="dinaAnabelle@temple.edu" />
+            <input type="text" name="SponsorEmail" value="email@bellevuecollege.edu" />
           </div>
        <br />
        <div>
            <label for="Poster">Poster Title*:</label> <br />
-           <asp:ListBox ID="ListBox1" runat="server" value="URP Research Symposium" Width="249px">
-               <asp:ListItem>URP Research Symposium</asp:ListItem>
+           <asp:ListBox ID="ListBox1" runat="server" value="Bellevue research" Width="249px">
+               <asp:ListItem>Bellevue College</asp:ListItem>
            </asp:ListBox>
           </div>
        <br />
@@ -115,7 +115,7 @@
        <br />
        <div>
             <label for="Graduation">Expected Graduation Date*:</label>
-            <input type="text" name="Graduation" value="Spring 2017" />
+            <input type="text" name="Graduation" value="June 2020" />
           </div>
        <br />
        <div>
@@ -133,7 +133,7 @@
                     <div class="col-md-12 col-lg-12">
                         <div class="wow shake" data-wow-delay="0.4s">
                         <p style="height: 95px; z-index: 1; left: -156px; top: 1073px; position: absolute; width: 738px; background-color: #FF6666; margin-left: 160px;">
-                            ©TEMPLE UNIVERSITY URP SYMPOSIUM RESEARCH</p>
+                            ©BELLEVUE COLLEGE</p>
                     </div>
          </div>
                     </div>

@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-     <title>TEMPLE UNIVERSITY URP SYSTEM</title>
+     <title>BELLEVUE COLLEGE</title>
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
 
@@ -27,30 +27,30 @@
                                 <div>
                                     <label for="Name">
                                     Student Name*:</label>
-                                    <input name="Name" type="text" value="Alex Guitado" />
+                                    <input name="Name" type="text" value="Thanh Duong" />
                                 </div>
                                 <br />
                                 <div>
                                     <label for="ID">
                                     TUID*:</label>
-                                    <input name="ID" type="text" value="911-345-7777" />
+                                    <input name="ID" type="text" value="206-669-7777" />
                                 </div>
                                 <br />
                                 <div>
                                     <label for="Email">
                                     Email*:</label>
-                                    <input name="Email" type="text" value="alex@temple.edu" />
+                                    <input name="Email" type="text" value="Thanh.duong@bellevuecollege.edu" />
                                 </div>
                                 <br />
                                 <div>
                                     <label for="CellPhone">
                                     Cell Phone*:</label>
-                                    <input name="CellPhone" type="text" value="267-333-4567" />
+                                    <input name="CellPhone" type="text" value="206-669-4452" />
                                 </div>
                                 <br />
                                 <div>
                                     <label for="Major"> Submission Date*:</label>
-                                    <input name="Major" type="text" value="October 18th, 2016" />
+                                    <input name="Major" type="text" value="July 18th, 2020" />
                                 </div>
                                 <br />
                                
@@ -71,7 +71,7 @@
                     <div class="col-md-12 col-lg-12">
                         <div class="wow shake" data-wow-delay="0.4s">
                         <p style="height: 95px; z-index: 1; left: -156px; top: 661px; position: absolute; width: 738px; background-color: #FF6666; margin-left: 160px;">
-                            ©TEMPLE UNIVERSITY URP SYMPOSIUM RESEARCH</p>
+                            ©BELLEVUE COLLEGE</p>
         </div>
          </div>
                     </div>

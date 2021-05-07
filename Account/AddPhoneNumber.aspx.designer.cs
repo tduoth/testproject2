@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Togola_HW7_Part2.Account {
+namespace TestResearch.Account {
     
     
     public partial class AddPhoneNumber {

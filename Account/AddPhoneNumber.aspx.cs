@@ -7,9 +7,9 @@ using System.Web.UI.WebControls;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using System.Threading.Tasks;
-using Togola_HW7_Part2.Models;
+using TestResearch.Models;
 
-namespace Togola_HW7_Part2.Account
+namespace TestResearch.Account
 {
     public partial class AddPhoneNumber : System.Web.UI.Page
     {

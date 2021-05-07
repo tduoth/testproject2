@@ -7,7 +7,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using Microsoft.AspNet.FriendlyUrls.Resolvers;
 
-namespace Togola_HW7_Part2
+namespace TestResearch
 {
     public partial class ViewSwitcher : System.Web.UI.UserControl
     {

@@ -6,9 +6,9 @@ using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security;
-using Togola_HW7_Part2.Models;
+using TestResearch.Models;
 
-namespace Togola_HW7_Part2
+namespace TestResearch
 {
     public class EmailService : IIdentityMessageService
     {

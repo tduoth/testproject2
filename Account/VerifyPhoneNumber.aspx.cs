@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 
-namespace Togola_HW7_Part2.Account
+namespace TestResearch.Account
 {
     public partial class VerifyPhoneNumber : System.Web.UI.Page
     {

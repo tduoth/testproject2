@@ -7,10 +7,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Togola_HW7_Part2 {
-    
-    
-    public partial class Site_Mobile {
+namespace TestResearch
+{
+        public partial class Site_Mobile {
         
         /// <summary>
         /// HeadContent control.

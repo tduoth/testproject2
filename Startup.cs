@@ -1,8 +1,8 @@
 ﻿using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartupAttribute(typeof(Togola_HW7_Part2.Startup))]
-namespace Togola_HW7_Part2
+[assembly: OwinStartupAttribute(typeof(TestResearch.Startup))]
+namespace TestResearch
 {
     public partial class Startup {
         public void Configuration(IAppBuilder app) {

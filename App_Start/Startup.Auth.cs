@@ -7,9 +7,9 @@ using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.DataProtection;
 using Microsoft.Owin.Security.Google;
 using Owin;
-using Togola_HW7_Part2.Models;
+using TestResearch.Models;
 
-namespace Togola_HW7_Part2
+namespace TestResearch
 {
     public partial class Startup {
 
