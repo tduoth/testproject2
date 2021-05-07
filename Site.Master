@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Togola_HW7_Part2.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <title><%: Page.Title %> - URP Research Sysmposium Registration</title>
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+
+    <!-- Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+	<link href="css/animate.css" rel="stylesheet" />
+    <!-- Squad theme CSS -->
+    <link href="css/style.css" rel="stylesheet"/>
+	<link href="color/default.css" rel="stylesheet"/>
+    
+
+    <asp:PlaceHolder runat="server"></asp:PlaceHolder>
+</head>
+<body>
+    <form runat="server">
+         <header><img src="Images/urp.jpg" style="height: 168px; width: 493px"/></header> <br />
+         <aside>
+         <div id="navigation">
+                <asp:HyperLink runat="server"  NavigateUrl="~Login.aspx">Login</asp:HyperLink> <br />
+                 <asp:HyperLink runat="server" NavigateUrl="~Register.aspx">Register</asp:HyperLink> <br />
+                 <asp:HyperLink runat="server" NavigateUrl="~AddSubmission.aspx">Add Submission</asp:HyperLink> <br />
+                 <asp:HyperLink runat="server" NavigateUrl="~NotifyStudent.aspx">Notify Student</asp:HyperLink> <br />
+                 <asp:HyperLink runat="server" NavigateUrl="~ViewRecordOnDB.aspx">View Record On DB</asp:HyperLink> <br />
+                
+              <asp:Button ID="btnNextPage" runat="server" OnClick="btnNextPage_Click" Text="Next Page" style="background-color: #FFFFFF; z-index: 1; left: 212px; top: 327px; position: absolute;"/>
+         </div>
+        </aside>
+           
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            
+            
+           
+
+        </div>
+    </form>
+</body>
+</html>
