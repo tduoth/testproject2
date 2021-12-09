@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{38DA02AA-DD25-4DAE-BDAD-55D15E18FF90}|">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TestResearch PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
